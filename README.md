@@ -1,1 +1,1 @@
-# Splunk-Data-Onboarding-with-Heavy-Forwarder
+Ingesting data correctly is a foundational step in managing a Splunk Infrastructure.If done correctly, data onboarding allows an admin to get the most value from various input logs across the entire Splunk Deployment.In this simple project,i demostrate a walk-through of how to set configure various setting in various configuration files to onboard data into a splunk platform.
