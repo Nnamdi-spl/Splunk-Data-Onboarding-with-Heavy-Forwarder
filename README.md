@@ -5,11 +5,16 @@
 Ingesting data correctly is a foundational step in managing a Splunk Data Infrastructure.
 If done correctly, data onboarding allows an admin to get the most value from various input logs across the entire Splunk Deployment.
 In this simple project,i demostrate a walk-through of how to configure various settings in various configuration files to onboard data into a splunk platform.
-A heavy forwarder is used in this project.The use case for a heavy forwarder include the ability to anonymize, mask and manipulate data before 
-forwarding to the indexers.
+A heavy forwarder is used in this project.The use case for a heavy forwarder include the 
 
 <br />
 <h2>Use Cases for Heavy Forwarders</h2>
+
+- <b>A heavy forwarder may be required by some splunk apps,add-ons or input types (HEC,DBconnect)</b>
+- <b>Supports complex event routing.</b>
+- <b>Ability to anonymize, mask and manipulate data before 
+forwarding to the indexers.</b>
+- <b>Provides Splunkweb when needed unlike Universal Forwarders.</b>
 
 
 <h2>Lab Environment Setup</h2>
