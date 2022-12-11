@@ -9,6 +9,7 @@ A heavy forwarder is used in this project.The use case for a heavy forwarder inc
 forwarding to the indexers.
 
 <br />
+<h2>Use Cases for Heavy Forwarders</h2>
 
 
 <h2>Lab Environment Setup</h2>
